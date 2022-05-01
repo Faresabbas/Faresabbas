@@ -48,15 +48,4 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/fares-abbas"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/fares_a_ghazi"><img src="https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
   <a href="https://www.facebook.com/faresa.ghazi"><img src="https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
-  <a href="https://www.instagram.com/devalexmartinez/"><img src="https://img.shields.io/badge/-Instagram-orange?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-  <a href="https://www.polywork.com/devalexmartinez"><img src="https://img.shields.io/badge/-Polywork-blueviolet?style=for-the-badge&logo=Polywork&logoColor=white"/></a>
-  <a href="https://www.alexandramartinez.world/links"><img src="https://img.shields.io/badge/-Others-green?style=for-the-badge&logo=Linktree&logoColor=white"/></a>
-</p>
 
-## 🧐 MuleSoft Repos
-
-[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=DataWeave-scripts&theme=buefy)](https://github.com/alexandramartinez/DataWeave-scripts)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=reviewing-a-complex-dw-transformation-use-case&theme=buefy)](https://github.com/alexandramartinez/reviewing-a-complex-dw-transformation-use-case)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=intro-a-dataweave&theme=buefy)](https://github.com/alexandramartinez/intro-a-dataweave)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=my-process-api-munits&theme=buefy)](https://github.com/alexandramartinez/my-process-api-munits)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=vampireAPI&theme=buefy)](https://github.com/alexandramartinez/vampireAPI)
