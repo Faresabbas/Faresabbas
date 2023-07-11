@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ## 👋 About me
 
-- ML eng :heart_eyes:
-- DS eng :relieved:
-- NLP eng :sunglasses:
+- ML :heart_eyes:
+- DS :relieved:
+- NLP :sunglasses:
 
 ## :yum: Character traits
 - I like to eat healthy meals :yum:
