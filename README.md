@@ -79,14 +79,18 @@ Check out more of my projects on [GitHub](https://github.com/Faresabbas?tab=repo
 
 Feel free to reach out to me at:
 
-- **Gmail**: [faresabbas.ai@gmail.com](mailto:faresabbas.ai@gmail.com)
-- **Kaggle**: [faresabbasai2022](https://www.kaggle.com/faresabbasai2022)
+## 📧 Contact & Connect
+
+Feel free to reach out to me:
 
 <p align="center">
+  <a href="mailto:faresabbas.ai@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+  <a href="https://www.kaggle.com/faresabbasai2022"><img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/fares-abbas"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/fares_a_ghazi"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
   <a href="https://www.facebook.com/faresa.ghazi"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
 </p>
+
 
 ---
 
