@@ -9,6 +9,7 @@
 ## 🧠 About Me
 - **Machine Learning Enthusiast** 🤖: Crafting intelligent algorithms and models to solve real-world problems.
 - **Data Scientist** 📊: Turning raw data into meaningful insights.
+- **Data Analyst & Engineer** 💻: Bridging the gap between data and actionable strategies.
 - **NLP Fanatic** 🧑‍💻: Exploring the beauty of language through data.
 
 ---
@@ -74,7 +75,12 @@ Check out more of my projects on [GitHub](https://github.com/Faresabbas?tab=repo
 
 ---
 
-## 🤝 Let's Connect:
+## 📧 Contact & Connect
+
+Feel free to reach out to me at:
+
+- **Gmail**: [faresabbas.ai@gmail.com](mailto:faresabbas.ai@gmail.com)
+- **Kaggle**: [faresabbasai2022](https://www.kaggle.com/faresabbasai2022)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/fares-abbas"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
